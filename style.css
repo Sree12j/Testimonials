@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+}
+.testimonals{
+    padding: 50px;
+    background-color: rgb(165, 89, 42);
+    width: 400px;
+    align-items: center;
+    position: absolute;
+    transform: translate(140%,80%);
+    border-radius: 10px;
+}
+.testimonals img{
+    background-position:fixed;
+    background-attachment: fixed;
+    width: 150px;
+    position: absolute;
+    transform: translate(150%,-110%);
+    border-radius: 100%;
+    
+}
+.testimonals p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    color: rgb(15, 15, 15);
+   
+}
+.testimonals .username{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400px;
+    color: rgb(111, 1, 1);
+  
+}
