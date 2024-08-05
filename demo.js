@@ -2,7 +2,7 @@ const testimonals=[
     {
         name:"Clara",
          photo:"images/pexels-olly-3785412.jpg",
-       text:"Highly recommend! The quality and service provided were outstanding. They truly care about their customers and it shows in every interaction. l like it I highly recommend them!",
+       text:" The quality and service provided were outstanding. They truly care about their customers and it shows in every interaction. I highly recommend them!",
     },{
 
 
